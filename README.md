@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cloud based projects, Networking projects....
 - 🌱 I’m currently learning Python and AI
 - 💞️ I’m looking to collaborate on Cloud projects
-- 📫 How to reach me LinkedIn : Gloria-titus , gloriamtitus@gmail.com
+- 📫 How to reach me LinkedIn :[ Gloria-titus](https://www.linkedin.com/in/gloria-titus) , gloriamtitus@gmail.com
 
 
 <!---
